@@ -22,7 +22,7 @@ const Footer = () => {
         </a>
         <a
           className={classes.SocialMediaIcon}
-          href="https://github.com/jerrytqz"
+          href="https://github.com/jerrytq"
           aria-label="GitHub profile"
         >
           <FontAwesomeIcon icon={faGithub} fixedWidth />
