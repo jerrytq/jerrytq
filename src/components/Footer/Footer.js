@@ -27,13 +27,13 @@ const Footer = () => {
         >
           <FontAwesomeIcon icon={faGithub} fixedWidth />
         </a>
-        <a
+        {/* <a
           className={classes.SocialMediaIcon}
           href="https://instagram.com/jerrytqz"
           aria-label="Instagram profile"
         >
           <FontAwesomeIcon icon={faInstagram} fixedWidth />
-        </a>
+        </a> */}
         <a
           className={classes.SocialMediaIcon}
           href="mailto:contact@jerrytq.com"
